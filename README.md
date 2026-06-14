@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - ⚡ I’m full time working as a Software Engineer
-- 📫 You can reach me by email: miguel.soto@neogamelab.com
 - 🎮 My Work on NeoStation: https://neostation.dev/
 
 ### Metrics
