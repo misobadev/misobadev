@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Options
-          user: miguelsotobaez
+          user: misobadev
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/sANTIAGO
